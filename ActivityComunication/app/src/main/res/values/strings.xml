@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ActivityComunication</string>
+    <string name="app_name">AndroidLifeCycle</string>
+    <string name="ActB">OPEN B</string>
+    <string name="Exit">Quit</string>
 </resources>
